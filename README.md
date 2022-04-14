@@ -9,3 +9,6 @@ Open-Source-Basierte Softwareentwicklung Praktikum Aufgabe 4
 ### Header 3
 
 Und hier tu ich so als wärs mein Lebenslauf
+
+![Stevens_icon](C:\Users\Pascal\Pictures\Stevens_icon.png)
+
